@@ -1,0 +1,3 @@
+# <h2>Blurry-Loading</h2>
+
+This project created by me. I'm an <em>aspiring software developer</em> is an impressive way to apply HTML, CSS, and Javascript skills <b>together</b>. The project takes a loading screen that would normally appear as a single, static image and makes it dynamic, with a blurred animation effect. The blurry loading screen is a great example of how HTML, CSS, and Javascript can be used together to create something visually impressive. The aspiring software developer who created this project has clearly taken the time to learn and apply the skills necessary to create something unique and stylish.
