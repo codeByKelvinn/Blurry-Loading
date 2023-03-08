@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Climate+Crisis&family=Oswald:wght@200;300&family=Roboto+Mono:ital,wght@0,500;1,400&family=Ubuntu:ital,wght@1,700&display=swap');
+
+* {
+    box-sizing: border-box;
+}
+
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    overflow: hidden;
+    margin: 0;
+}
+
+
+.bg {
+    background: url(images/IMG_0687.JPG) center center/cover;
+    position: absolute;
+    top: -30px;
+    left: -30px;
+    width: calc(100vw + 60px);
+    height: calc(100vh + 60px);
+    z-index: -1;
+    filter: blur(0px)
+
+}
+
+.loading-text {
+    font-size: 75px;
+    color: #fff;
+}
+
